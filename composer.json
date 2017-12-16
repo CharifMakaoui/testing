@@ -1,0 +1,22 @@
+{
+	"name": "cakephp/cakephp",
+	"description": "The CakePHP framework",
+	"type": "library",
+	"keywords": ["framework"],
+	"homepage": "http://cakephp.org",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "CakePHP Community",
+			"homepage": "https://github.com/cakephp/cakephp/graphs/contributors"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0",
+		"facebook/graph-sdk": "^5.6",
+		"pxgamer/youtube-dl-php": "^2.1"
+	},
+	"require-dev": {
+	
+	}
+}
