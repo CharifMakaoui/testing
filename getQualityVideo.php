@@ -1,6 +1,6 @@
 <?php
 
-require '../vendor/autoload.php';
+require 'vendor/autoload.php';
 
 if(!isset($_GET['url'])){
 	header('Content-Type: application/json');
